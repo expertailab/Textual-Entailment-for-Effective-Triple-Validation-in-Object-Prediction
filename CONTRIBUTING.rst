@@ -60,7 +60,7 @@ Ready to contribute? Here's how to set up `Textual Entailment for Effective Trip
 1. Fork the `Textual Entailment for Effective Triple Validation in Object Prediction` repo on GitHub.
 2. Clone your fork locally::
 
-    $ git clone git@github.com:your_name_here/Textual Entailment for Effective Triple Validation in Object Prediction.git
+    $ git clone git@github.com:your_name_here/Textual-Entailment-for-Effective-Triple-Validation-in-Object-Prediction.git
 
 3. Install your local copy into a virtualenv or conda::
 
