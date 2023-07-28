@@ -4,9 +4,7 @@ Textual Entailment for Effective Triple Validation in Object Prediction
 
 |PyPI pyversions|
 
-Code developed with 💛 at `Expert.ai Research Lab <https://expert.ai>`__
-
-Software code for the paper Textual Entailment for Effective Triple Validation in Object Prediction.
+Code developed with 💛 at `Expert.ai Research Lab <https://expert.ai>`__ for the paper Textual Entailment for Effective Triple Validation in Object Prediction.
 
 Installation
 ------------
