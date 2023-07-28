@@ -1,0 +1,48 @@
+{"SubjectEntity": "Burundi", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["tanzania"], ["congo", "democratic republic of the congo"], ["rwanda"]]}
+{"SubjectEntity": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["nigeria"], ["gabon"], ["equatorial guinea", "guinea"]]}
+{"SubjectEntity": "Nauru", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
+{"SubjectEntity": "Liechtenstein", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["switzerland"], ["austria"]]}
+{"SubjectEntity": "Madagascar", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["malagasy"], ["french"]]}
+{"SubjectEntity": "State of Palestine", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "Eritrea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"], ["english"], ["tigrinya"]]}
+{"SubjectEntity": "Benin", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"]]}
+{"SubjectEntity": "Campania", "Relation": "StateSharesBorderState", "ObjectEntities": [["molise"], ["basilicata"], ["apulia"], ["lazio"]]}
+{"SubjectEntity": "Berlin", "Relation": "StateSharesBorderState", "ObjectEntities": [["dahme-spreewald district", "dahme-spreewald"], ["teltow-flaming", "teltow-fl\u00e4ming district"], ["oder-spree", "oder-spree district"], ["markisch-oderland", "m\u00e4rkisch-oderland district"], ["potsdam"], ["kleinmachnow"], ["oberhavel", "oberhavel district"], ["barnim district", "barnim"], ["havelland", "havelland district"], ["stahnsdorf"], ["brandenburg"], ["potsdam-mittelmark district", "potsdam-mittelmark"]]}
+{"SubjectEntity": "Nevada", "Relation": "StateSharesBorderState", "ObjectEntities": [["idaho"], ["oregon"], ["utah"], ["california"], ["arizona"]]}
+{"SubjectEntity": "Baden-W\u00fcrttemberg", "Relation": "StateSharesBorderState", "ObjectEntities": [["vorarlberg"], ["rhineland-palatinate"], ["canton of z\u00fcrich", "zurich"], ["basel-landschaft", "basel"], ["canton aargau"], ["hesse"], ["bavaria"], ["switzerland"], ["canton of schaffhausen", "schaffhausen"], ["thurgau"], ["basel-stadt", "basel"], ["bas-rhin"], ["haut-rhin"], ["grand est"]]}
+{"SubjectEntity": "Chao Phraya", "Relation": "RiverBasinsCountry", "ObjectEntities": [["thailand"]]}
+{"SubjectEntity": "Velikaya", "Relation": "RiverBasinsCountry", "ObjectEntities": [["belarus"], ["russia"], ["latvia"]]}
+{"SubjectEntity": "Pilcomayo", "Relation": "RiverBasinsCountry", "ObjectEntities": [["paraguay"], ["argentina"], ["bolivia"]]}
+{"SubjectEntity": "Snake river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["wyoming"], ["usa", "united states of america"]]}
+{"SubjectEntity": "Vanillin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["oxygen"], ["hydrogen"]]}
+{"SubjectEntity": "Lead Azide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["lead"], ["nitrogen"]]}
+{"SubjectEntity": "Melatonin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Potassium Bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["bromine"]]}
+{"SubjectEntity": "Mark Ruffalo", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Rafael Correa Delgado", "Relation": "PersonLanguage", "ObjectEntities": [["spanish"]]}
+{"SubjectEntity": "Ariana Grande", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Nelson Mandela", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["xhosa"]]}
+{"SubjectEntity": "Brian May", "Relation": "PersonProfession", "ObjectEntities": [["guitarist"], ["astrophysicist"], ["singer-songwriter", "singer", "songwriter"], ["pianist"], ["producer", "record producer"], ["actor"], ["physicist"], ["presenter", "television presenter"], ["composer"], ["research fellow"], ["youtuber"], ["singer"]]}
+{"SubjectEntity": "Gwyneth Paltrow", "Relation": "PersonProfession", "ObjectEntities": [["singer"], ["screenwriter"], ["businessperson"], ["television producer", "producer"], ["actor", "television actor"], ["songwriter"], ["actor", "stage actor"], ["actor", "film actor"], ["musician"]]}
+{"SubjectEntity": "Demi Lovato", "Relation": "PersonProfession", "ObjectEntities": [["pianist"], ["singer-songwriter", "singer", "songwriter"], ["guitarist"], ["actor", "child actor"], ["television personality", "personality"], ["composer"], ["actor"]]}
+{"SubjectEntity": "Alicia Keys", "Relation": "PersonProfession", "ObjectEntities": [["poet"], ["singer"], ["artist", "recording artist"], ["presenter"], ["art collector", "collector"], ["actor"], ["pianist"], ["producer", "record producer"], ["composer"], ["musician"]]}
+{"SubjectEntity": "Lee Hi", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Mick Jagger", "Relation": "PersonInstrument", "ObjectEntities": [["piano", "upright piano"], ["guitar"], ["piano"], ["harmonica"]]}
+{"SubjectEntity": "Mikey Way", "Relation": "PersonInstrument", "ObjectEntities": [["bass guitar", "guitar"], ["guitar"]]}
+{"SubjectEntity": "Bruce Springsteen", "Relation": "PersonInstrument", "ObjectEntities": [["harmonica"], ["guitar"], ["piano"]]}
+{"SubjectEntity": "Reggie Fils-Aim\u00e9", "Relation": "PersonEmployer", "ObjectEntities": [["nintendo"]]}
+{"SubjectEntity": "Miquel Cal\u00e7ada", "Relation": "PersonEmployer", "ObjectEntities": [["catalunya radio", "catalunya r\u00e0dio"], ["flaix"]]}
+{"SubjectEntity": "Yukio Hatoyama", "Relation": "PersonEmployer", "ObjectEntities": [["senshu university"], ["tokyo institute of technology"]]}
+{"SubjectEntity": "Vivienne Westwood", "Relation": "PersonEmployer", "ObjectEntities": [["berlin university of the arts"]]}
+{"SubjectEntity": "Camila Cabello", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Ronnie James Dio", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["houston"]]}
+{"SubjectEntity": "Natalie Portman", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "John McCain", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["cornville"]]}
+{"SubjectEntity": "Barack Obama", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Bob Marley", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["melanoma"]]}
+{"SubjectEntity": "George Michael", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["fatty liver disease"], ["dilated cardiomyopathy", "cardiomyopathy"]]}
+{"SubjectEntity": "Sushant Singh Rajput", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["asphyxia"]]}
+{"SubjectEntity": "Lamborghini", "Relation": "CompanyParentOrganization", "ObjectEntities": [["audi"]]}
+{"SubjectEntity": "Bentley", "Relation": "CompanyParentOrganization", "ObjectEntities": [["volkswagen group", "volkswagen"]]}
+{"SubjectEntity": "Bristol Cars", "Relation": "CompanyParentOrganization", "ObjectEntities": [["kamkorp"]]}
+{"SubjectEntity": "SEAT", "Relation": "CompanyParentOrganization", "ObjectEntities": [["volkswagen group", "volkswagen"]]}

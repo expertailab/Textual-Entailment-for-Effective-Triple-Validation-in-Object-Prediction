@@ -1,0 +1,60 @@
+{"SubjectEntity": "Philippines", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["taiwan"], ["malaysia"], ["palau"], ["indonesia"]]}
+{"SubjectEntity": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["nigeria"], ["gabon"], ["equatorial guinea", "guinea"]]}
+{"SubjectEntity": "Singapore", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["malaysia"], ["indonesia"]]}
+{"SubjectEntity": "Iraq", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["iran"], ["syria"], ["turkey"], ["saudi arabia"], ["jordan"], ["kuwait"]]}
+{"SubjectEntity": "Trinidad and Tobago", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Tunisia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "Malaysia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["malay"]]}
+{"SubjectEntity": "Egypt", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "Florida Department", "Relation": "StateSharesBorderState", "ObjectEntities": [["canelones", "canelones department"], ["san jos\u00e9 department", "san jose"], ["flores", "flores department"], ["lavalleja", "lavalleja department"], ["durazno", "durazno department"], ["treinta y tres department", "treinta y tres"]]}
+{"SubjectEntity": "Minnesota", "Relation": "StateSharesBorderState", "ObjectEntities": [["dakota", "south dakota"], ["iowa"], ["ontario"], ["manitoba"], ["wisconsin"], ["north dakota", "dakota"], ["michigan"]]}
+{"SubjectEntity": "Gibraltar", "Relation": "StateSharesBorderState", "ObjectEntities": [["spain"], ["andalusia"]]}
+{"SubjectEntity": "Texas", "Relation": "StateSharesBorderState", "ObjectEntities": [["chihuahua"], ["new mexico", "mexico"], ["nuevo le\u00f3n", "nuevo leon", "leon"], ["tamaulipas", "tamaulipas state"], ["coahuila"], ["louisiana"], ["arkansas"], ["oklahoma"]]}
+{"SubjectEntity": "Gauja", "Relation": "RiverBasinsCountry", "ObjectEntities": [["estonia"], ["latvia"]]}
+{"SubjectEntity": "Liffey", "Relation": "RiverBasinsCountry", "ObjectEntities": [["ireland", "republic of ireland"]]}
+{"SubjectEntity": "Zilupe", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"], ["latvia"], ["belarus"]]}
+{"SubjectEntity": "Illinois river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["usa", "united states of america"], ["illinois"]]}
+{"SubjectEntity": "Octadecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Methylacetylene", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Zanamivir", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["nitrogen"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Hydrogen Bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["bromine"]]}
+{"SubjectEntity": "Tom Hanks", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Andr\u00e9s Iniesta", "Relation": "PersonLanguage", "ObjectEntities": [["spanish"]]}
+{"SubjectEntity": "Xabi Alonso", "Relation": "PersonLanguage", "ObjectEntities": [["german"], ["basque"], ["spanish"], ["english"]]}
+{"SubjectEntity": "Olivier Giroud", "Relation": "PersonLanguage", "ObjectEntities": [["french"]]}
+{"SubjectEntity": "Hillary Clinton", "Relation": "PersonProfession", "ObjectEntities": [["writer"], ["politician"], ["university teacher", "teacher"], ["lawyer"], ["autobiographer"], ["diplomat"], ["podcaster"]]}
+{"SubjectEntity": "Bruce Springsteen", "Relation": "PersonProfession", "ObjectEntities": [["songwriter"], ["pianist"], ["musician"], ["artist", "recording artist"], ["singer"], ["guitarist"], ["producer", "record producer"]]}
+{"SubjectEntity": "Ed Sheeran", "Relation": "PersonProfession", "ObjectEntities": [["guitarist"], ["songwriter"], ["actor"], ["actor", "television actor"], ["actor", "film actor"], ["singer"], ["producer", "record producer"], ["composer"], ["musician"], ["singer-songwriter", "singer", "songwriter"]]}
+{"SubjectEntity": "Mariah Carey", "Relation": "PersonProfession", "ObjectEntities": [["philanthropist"], ["music video director", "director"], ["voice actor", "actor"], ["producer", "film producer"], ["music producer", "producer"], ["model"], ["composer"], ["singer"], ["artist", "recording artist"], ["businessperson"], ["actor"], ["entertainer"], ["singer-songwriter", "singer", "songwriter"]]}
+{"SubjectEntity": "Gene Simmons", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["bass guitar", "guitar"]]}
+{"SubjectEntity": "Yuki Kashiwagi", "Relation": "PersonInstrument", "ObjectEntities": [["drum", "drum kit"]]}
+{"SubjectEntity": "Emma Bunton", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Tablo", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Vivienne Westwood", "Relation": "PersonEmployer", "ObjectEntities": [["berlin university of the arts"]]}
+{"SubjectEntity": "Malcolm Turnbull", "Relation": "PersonEmployer", "ObjectEntities": [["goldman sachs"]]}
+{"SubjectEntity": "Jerzy Buzek", "Relation": "PersonEmployer", "ObjectEntities": [["university of cambridge"]]}
+{"SubjectEntity": "David Heinemeier Hansson", "Relation": "PersonEmployer", "ObjectEntities": [["basecamp"]]}
+{"SubjectEntity": "Terry Jones", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["north london", "london"]]}
+{"SubjectEntity": "Angela Merkel", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Angelina Jolie", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Leon Allen White", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["denver"]]}
+{"SubjectEntity": "Wes Craven", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["brain cancer", "cancer"]]}
+{"SubjectEntity": "Mar\u00edlia Mendon\u00e7a", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["accident", "aviation accident"]]}
+{"SubjectEntity": "Brad Pitt", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Warren Buffett", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Aichi", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Oracle", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Barkas", "Relation": "CompanyParentOrganization", "ObjectEntities": [["industrieverband fahrzeugbau"]]}
+{"SubjectEntity": "Fabryka Samochod\u00f3W Ma\u0142olitra\u017cowych", "Relation": "CompanyParentOrganization", "ObjectEntities": [["fiat"]]}
+{"SubjectEntity": "Saint Lucia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["venezuela"]]}
+{"SubjectEntity": "Libya", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "Region of Murcia", "Relation": "StateSharesBorderState", "ObjectEntities": [["comunidad valenciana", "valenciana"], ["new castile"], ["land of valencia", "valenciana"], ["andalusia"], ["castile-la mancha"]]}
+{"SubjectEntity": "Berezina river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["belarus"]]}
+{"SubjectEntity": "Tyramine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["hydrogen"], ["oxygen"], ["carbon"]]}
+{"SubjectEntity": "Drake", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "James Maslow", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["manufacturer"], ["actor", "film actor"], ["dancer"], ["musician"], ["singer"], ["model"], ["youtuber"], ["singer-songwriter", "singer", "songwriter"], ["actor", "television actor"]]}
+{"SubjectEntity": "Henry Lau", "Relation": "PersonInstrument", "ObjectEntities": [["violin"], ["guitar"], ["piano"], ["drum"]]}
+{"SubjectEntity": "Grigoriy Nikolayevich Bakunov", "Relation": "PersonEmployer", "ObjectEntities": [["parimatch"], ["yandex"]]}
+{"SubjectEntity": "Dusty Rhodes", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["orlando"]]}
+{"SubjectEntity": "Bob Saget", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["head injury", "injury"], ["blunt trauma", "trauma"]]}
+{"SubjectEntity": "Oltcit", "Relation": "CompanyParentOrganization", "ObjectEntities": [["citroen", "citro\u00ebn"]]}

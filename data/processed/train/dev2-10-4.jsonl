@@ -1,0 +1,24 @@
+{"SubjectEntity": "Greece", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["albania"], ["turkey"], ["north macedonia", "macedonia"], ["bulgaria"]]}
+{"SubjectEntity": "Dominica", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["venezuela"]]}
+{"SubjectEntity": "Libya", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "Fiji", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["hindustani"], ["fiji hindi", "hindi"], ["fijian"]]}
+{"SubjectEntity": "Florida", "Relation": "StateSharesBorderState", "ObjectEntities": [["georgia"], ["alabama"]]}
+{"SubjectEntity": "Emirate of Dubai", "Relation": "StateSharesBorderState", "ObjectEntities": [["oman"], ["emirate of sharjah", "sharjah"], ["emirate of abu dhabi", "abu dhabi"], ["ajman", "emirate of ajman"], ["ras al khaimah", "emirate of ras al khaimah"]]}
+{"SubjectEntity": "Ili river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["kazakhstan"], ["china", "people's republic of china"]]}
+{"SubjectEntity": "Huai river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"]]}
+{"SubjectEntity": "Tyramine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["hydrogen"], ["oxygen"], ["carbon"]]}
+{"SubjectEntity": "Methanol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Jessica Alba", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Kylie Minogue", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Pel\u00e9", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["politician"], ["actor", "film actor"], ["association football player", "footballer"]]}
+{"SubjectEntity": "Buzz Aldrin", "Relation": "PersonProfession", "ObjectEntities": [["officer", "air force officer"], ["science fiction writer", "writer"], ["astronaut"], ["autobiographer"], ["engineer"], ["pilot", "fighter pilot"], ["businessperson"]]}
+{"SubjectEntity": "Kim Kibum", "Relation": "PersonInstrument", "ObjectEntities": [["young plan"]]}
+{"SubjectEntity": "Sarah Harding", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Daymond John", "Relation": "PersonEmployer", "ObjectEntities": [["fubu"]]}
+{"SubjectEntity": "Gugu Liberato", "Relation": "PersonEmployer", "ObjectEntities": [["recordtv"], ["sistema brasileiro de televis\u00e3o", "sistema brasileiro de televisao"]]}
+{"SubjectEntity": "Shinzo Abe", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Tupac Shakur", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["university medical center of southern nevada", "nevada"]]}
+{"SubjectEntity": "Jules Bianchi", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["diffuse axonal injury", "injury"]]}
+{"SubjectEntity": "Jenni Rivera", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["aircraft crash", "crash"]]}
+{"SubjectEntity": "ErAZ", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Alcoa", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

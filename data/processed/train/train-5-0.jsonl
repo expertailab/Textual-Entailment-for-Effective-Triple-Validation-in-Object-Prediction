@@ -1,0 +1,60 @@
+{"SubjectEntity": "Tonga", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["usa", "united states of america"]]}
+{"SubjectEntity": "Italy", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["switzerland"], ["san marino"], ["france"], ["slovenia"], ["malta"], ["austria"], ["vatican city", "vatican"]]}
+{"SubjectEntity": "Romania", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["ukraine"], ["bulgaria"], ["serbia"], ["hungary"], ["moldova"]]}
+{"SubjectEntity": "Armenia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["iran"], ["georgia"], ["azerbaijan"], ["turkey"]]}
+{"SubjectEntity": "Paraguay", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["guarani"], ["spanish"]]}
+{"SubjectEntity": "Portugal", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["portuguese"], ["mirandese"]]}
+{"SubjectEntity": "Estonia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["estonian"]]}
+{"SubjectEntity": "Trinidad and Tobago", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Lapland", "Relation": "StateSharesBorderState", "ObjectEntities": [["finnmark"], ["ostrobothnia", "northern ostrobothnia"], ["karelia"], ["troms"], ["troms og finnmark fylke"], ["norrbotten county", "norrbotten"], ["murmansk oblast"]]}
+{"SubjectEntity": "Molise", "Relation": "StateSharesBorderState", "ObjectEntities": [["apulia"], ["lazio"], ["abruzzo"], ["campania"]]}
+{"SubjectEntity": "Wyoming", "Relation": "StateSharesBorderState", "ObjectEntities": [["nebraska"], ["colorado"], ["utah"], ["montana"], ["idaho"], ["dakota", "south dakota"]]}
+{"SubjectEntity": "Ostrobothnia", "Relation": "StateSharesBorderState", "ObjectEntities": [["southern ostrobothnia", "ostrobothnia"], ["ostrobothnia", "central ostrobothnia"], ["satakunta"]]}
+{"SubjectEntity": "Lusatian Neisse", "Relation": "RiverBasinsCountry", "ObjectEntities": [["germany"], ["poland"], ["czech republic", "czechia"]]}
+{"SubjectEntity": "Marne", "Relation": "RiverBasinsCountry", "ObjectEntities": [["france"]]}
+{"SubjectEntity": "Gauja", "Relation": "RiverBasinsCountry", "ObjectEntities": [["estonia"], ["latvia"]]}
+{"SubjectEntity": "Chao Phraya", "Relation": "RiverBasinsCountry", "ObjectEntities": [["thailand"]]}
+{"SubjectEntity": "Amitriptyline", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"]]}
+{"SubjectEntity": "Calomel", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["chlorine"], ["mercury"]]}
+{"SubjectEntity": "Hydrogen Sulfide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["sulfur"]]}
+{"SubjectEntity": "Propylene", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Bruno Mars", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["spanish"]]}
+{"SubjectEntity": "Seth Meyers", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Kanye West", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Madonna", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Gary Lineker", "Relation": "PersonProfession", "ObjectEntities": [["sports commentator", "commentator"], ["association football player", "footballer"], ["journalist"], ["broadcaster"]]}
+{"SubjectEntity": "Lil Wayne", "Relation": "PersonProfession", "ObjectEntities": [["singer"], ["rapper"], ["songwriter"], ["executive", "music executive"], ["entrepreneur"]]}
+{"SubjectEntity": "Ricky Gervais", "Relation": "PersonProfession", "ObjectEntities": [["presenter", "television presenter"], ["comedian", "stand-up comedian"], ["actor", "film actor"], ["producer", "film producer"], ["radio personality"], ["director", "film director"], ["voice actor", "actor"], ["actor", "television actor"], ["actor"], ["television director", "director"], ["comedian"], ["television producer", "producer"], ["musician"], ["writer"], ["screenwriter"]]}
+{"SubjectEntity": "Kim Kardashian", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["celebrity"], ["singer"], ["voice actor", "actor"], ["socialite"], ["television producer", "producer"], ["designer", "fashion designer"], ["model"], ["blogger"], ["entrepreneur"]]}
+{"SubjectEntity": "Lee Hi", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Zakk Wylde", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Kendall Schmidt", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Sammy Hagar", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Chad Hurley", "Relation": "PersonEmployer", "ObjectEntities": [["google"]]}
+{"SubjectEntity": "Dr. Dre", "Relation": "PersonEmployer", "ObjectEntities": [["apple inc.", "apple"]]}
+{"SubjectEntity": "John Carmack", "Relation": "PersonEmployer", "ObjectEntities": [["softdisk"], ["facebook technologies, llc", "facebook"], ["id software"], ["armadillo aerospace"]]}
+{"SubjectEntity": "Gisele B\u00fcndchen", "Relation": "PersonEmployer", "ObjectEntities": [["chanel"], ["victoria's secret"], ["c&a"], ["pantene"], ["img models"], ["elite model brazil"], ["falabella"]]}
+{"SubjectEntity": "Lata Mangeshkar", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["mumbai"]]}
+{"SubjectEntity": "Paul Walker", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["valencia"]]}
+{"SubjectEntity": "Terry Pratchett", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["broad chalke"]]}
+{"SubjectEntity": "Roger Ebert", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["chicago"]]}
+{"SubjectEntity": "Mac Miller", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["drug overdose", "overdose"]]}
+{"SubjectEntity": "Camila Cabello", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Joe Biden", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Chadwick Boseman", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["colorectal cancer", "cancer"]]}
+{"SubjectEntity": "Zato vehicles", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "BYD Auto", "Relation": "CompanyParentOrganization", "ObjectEntities": [["byd", "byd company"]]}
+{"SubjectEntity": "Abarth", "Relation": "CompanyParentOrganization", "ObjectEntities": [["stellantis", "stellantis italy"]]}
+{"SubjectEntity": "Louis Vuitton", "Relation": "CompanyParentOrganization", "ObjectEntities": [["lvmh"]]}
+{"SubjectEntity": "Kenya", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["ethiopia"], ["uganda"], ["south sudan", "sudan"], ["tanzania"], ["somalia"], ["sudan"]]}
+{"SubjectEntity": "Suriname", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["dutch"]]}
+{"SubjectEntity": "Atacama Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["antofagasta region", "antofagasta"], ["catamarca province", "catamarca"], ["coquimbo region", "coquimbo"], ["san juan", "san juan province"], ["la rioja province", "la rioja"]]}
+{"SubjectEntity": "Tagus river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["spain"], ["portugal"]]}
+{"SubjectEntity": "Strontium Hydroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"], ["strontium"]]}
+{"SubjectEntity": "Jennette McCurdy", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Jimmy Kimmel", "Relation": "PersonProfession", "ObjectEntities": [["comedian"], ["producer", "film producer"], ["voice actor", "actor"], ["presenter", "television presenter"], ["television producer", "producer"], ["actor", "television actor"], ["actor", "film actor"], ["screenwriter"]]}
+{"SubjectEntity": "Ronnie James Dio", "Relation": "PersonInstrument", "ObjectEntities": [["bass guitar", "guitar"], ["trumpet"]]}
+{"SubjectEntity": "Peter Thiel", "Relation": "PersonEmployer", "ObjectEntities": [["stanford university", "stanford"]]}
+{"SubjectEntity": "Bruce Willis", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Jenni Rivera", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["aircraft crash", "crash"]]}
+{"SubjectEntity": "IBM", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

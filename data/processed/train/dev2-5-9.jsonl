@@ -1,0 +1,12 @@
+{"SubjectEntity": "Finland", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["norway"], ["sweden"], ["russia"]]}
+{"SubjectEntity": "South Sudan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["arabic"]]}
+{"SubjectEntity": "Kainuu", "Relation": "StateSharesBorderState", "ObjectEntities": [["ostrobothnia", "northern ostrobothnia"], ["northern savonia", "savonia"], ["north karelia", "karelia"], ["karelia"]]}
+{"SubjectEntity": "Sa\u00f4ne", "Relation": "RiverBasinsCountry", "ObjectEntities": [["france"]]}
+{"SubjectEntity": "Aspartame", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"], ["nitrogen"]]}
+{"SubjectEntity": "Mohamed Morsi", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["arabic"]]}
+{"SubjectEntity": "Karim Benzema", "Relation": "PersonProfession", "ObjectEntities": [["association football player", "footballer"]]}
+{"SubjectEntity": "Kim Kibum", "Relation": "PersonInstrument", "ObjectEntities": [["young plan"]]}
+{"SubjectEntity": "John Green", "Relation": "PersonEmployer", "ObjectEntities": [["kenyon college"], ["booklist"]]}
+{"SubjectEntity": "Joe Biden", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Jenni Rivera", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["aircraft crash", "crash"]]}
+{"SubjectEntity": "DAF", "Relation": "CompanyParentOrganization", "ObjectEntities": [["paccar"]]}

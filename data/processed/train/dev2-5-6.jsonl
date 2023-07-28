@@ -1,0 +1,12 @@
+{"SubjectEntity": "France", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["luxembourg"], ["brazil"], ["monaco"], ["germany"], ["suriname"], ["netherlands", "kingdom of the netherlands"], ["andorra"], ["spain"], ["italy"], ["belgium"], ["switzerland"]]}
+{"SubjectEntity": "Iraq", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"], ["kurdish"]]}
+{"SubjectEntity": "Salzburg", "Relation": "StateSharesBorderState", "ObjectEntities": [["carinthia"], ["styria"], ["upper austria"], ["tyrol"], ["tyrol", "south tyrol"], ["trentino-south tyrol"], ["bavaria"]]}
+{"SubjectEntity": "Tagus river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["spain"], ["portugal"]]}
+{"SubjectEntity": "Hydrogen Fluoride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["fluorine"]]}
+{"SubjectEntity": "Stephen Harper", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"]]}
+{"SubjectEntity": "Pel\u00e9", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["politician"], ["actor", "film actor"], ["association football player", "footballer"]]}
+{"SubjectEntity": "Choi Siwon", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Sam Altman", "Relation": "PersonEmployer", "ObjectEntities": [["loopt"], ["y combinator"], ["reddit inc.", "reddit"], ["openai"]]}
+{"SubjectEntity": "Sundar Pichai", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "David Beckham", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "IBM", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

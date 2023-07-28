@@ -1,0 +1,11 @@
+numpy==1.22.3
+pandas==1.4.2
+torch==1.11.0
+transformers==4.19.1
+datasets==2.2.2
+nltk==3.7
+duckduckgo-search==2.2.2
+spacy==3.4.1
+sentencepiece==0.1.97
+protobuf==3.19.0
+scikit-learn==1.2.0

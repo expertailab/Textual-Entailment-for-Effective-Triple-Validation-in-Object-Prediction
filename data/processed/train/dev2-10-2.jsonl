@@ -1,0 +1,24 @@
+{"SubjectEntity": "Jordan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["syria"], ["saudi arabia"], ["iraq"], ["israel"]]}
+{"SubjectEntity": "France", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["luxembourg"], ["brazil"], ["monaco"], ["germany"], ["suriname"], ["netherlands", "kingdom of the netherlands"], ["andorra"], ["spain"], ["italy"], ["belgium"], ["switzerland"]]}
+{"SubjectEntity": "Armenia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["armenian"]]}
+{"SubjectEntity": "Slovakia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["slovak"]]}
+{"SubjectEntity": "Grisons", "Relation": "StateSharesBorderState", "ObjectEntities": [["st. gallen", "canton of st. gallen"], ["trentino-south tyrol", "tyrol"], ["canton of glarus"], ["lombardy"], ["canton of ticino", "ticino"], ["como", "province of como"], ["uri"], ["province of sondrio", "sondrio"], ["vorarlberg"], ["tyrol"], ["gravedona ed uniti"], ["livo"], ["tyrol", "south tyrol"], ["dosso del liro"]]}
+{"SubjectEntity": "Atacama Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["antofagasta region", "antofagasta"], ["catamarca province", "catamarca"], ["coquimbo region", "coquimbo"], ["san juan", "san juan province"], ["la rioja province", "la rioja"]]}
+{"SubjectEntity": "Sa\u00f4ne", "Relation": "RiverBasinsCountry", "ObjectEntities": [["france"]]}
+{"SubjectEntity": "Ili river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["kazakhstan"], ["china", "people's republic of china"]]}
+{"SubjectEntity": "Cyclobutane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["carbon"]]}
+{"SubjectEntity": "Sirolimus", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["nitrogen"], ["hydrogen"], ["carbon"]]}
+{"SubjectEntity": "Cher", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Aamir Khan", "Relation": "PersonLanguage", "ObjectEntities": [["hindi"], ["english"], ["urdu"]]}
+{"SubjectEntity": "Pel\u00e9", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["politician"], ["actor", "film actor"], ["association football player", "footballer"]]}
+{"SubjectEntity": "Emma Watson", "Relation": "PersonProfession", "ObjectEntities": [["activist"], ["actor", "child actor"], ["actor"], ["actor", "film actor"], ["actor", "stage actor"], ["voice actor", "actor"], ["fashion model", "model"], ["model"]]}
+{"SubjectEntity": "Willie Nelson", "Relation": "PersonInstrument", "ObjectEntities": [["electric guitar", "guitar"], ["acoustic guitar", "guitar"], ["steel-string acoustic guitar", "guitar"], ["guitar", "classical guitar"], ["guitar"]]}
+{"SubjectEntity": "Ringo Starr", "Relation": "PersonInstrument", "ObjectEntities": [["drum", "drum kit"], ["percussion instrument", "percussion"], ["guitar"]]}
+{"SubjectEntity": "Thaksin Shinawatra", "Relation": "PersonEmployer", "ObjectEntities": [["takushoku university"]]}
+{"SubjectEntity": "John Kasich", "Relation": "PersonEmployer", "ObjectEntities": [["donald lukens"]]}
+{"SubjectEntity": "Sundar Pichai", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Herman Cain", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["atlanta"]]}
+{"SubjectEntity": "Raffaella Carr\u00e0", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cancer", "lung cancer"]]}
+{"SubjectEntity": "David Beckham", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Subaru", "Relation": "CompanyParentOrganization", "ObjectEntities": [["subaruoration", "subaru corporation", "subaru"]]}
+{"SubjectEntity": "Alphi", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

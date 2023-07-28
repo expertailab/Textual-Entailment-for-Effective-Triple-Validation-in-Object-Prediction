@@ -1,0 +1,12 @@
+{"SubjectEntity": "Switzerland", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["austria"], ["france"], ["italy"], ["germany"], ["liechtenstein"]]}
+{"SubjectEntity": "Lesotho", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["sesotho"]]}
+{"SubjectEntity": "Atacama Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["antofagasta region", "antofagasta"], ["catamarca province", "catamarca"], ["coquimbo region", "coquimbo"], ["san juan", "san juan province"], ["la rioja province", "la rioja"]]}
+{"SubjectEntity": "Main", "Relation": "RiverBasinsCountry", "ObjectEntities": [["germany"]]}
+{"SubjectEntity": "Strontium Hydroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"], ["strontium"]]}
+{"SubjectEntity": "Pervez Musharraf", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["urdu"], ["turkish"]]}
+{"SubjectEntity": "Rahul Gandhi", "Relation": "PersonProfession", "ObjectEntities": [["politician"]]}
+{"SubjectEntity": "Choi Siwon", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Benjam\u00edn Vicu\u00f1a", "Relation": "PersonEmployer", "ObjectEntities": [["unicef"]]}
+{"SubjectEntity": "Jane Goodall", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Bruce Willis", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Pope-Toledo", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

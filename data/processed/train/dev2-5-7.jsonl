@@ -1,0 +1,12 @@
+{"SubjectEntity": "Saint Lucia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["venezuela"]]}
+{"SubjectEntity": "Mongolia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["mongolian"]]}
+{"SubjectEntity": "Canton Aargau", "Relation": "StateSharesBorderState", "ObjectEntities": [["solothurn", "canton of solothurn"], ["canton of zug", "zug"], ["canton of z\u00fcrich", "zurich"], ["canton of bern"], ["basel-landschaft"], ["canton of lucerne", "lucerne"], ["baden-wurttemberg", "Baden-W\u00fcrttemberg"]]}
+{"SubjectEntity": "R\u00edo de la Plata", "Relation": "RiverBasinsCountry", "ObjectEntities": [["uruguay"], ["argentina"]]}
+{"SubjectEntity": "Borax", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["boron"], ["oxygen"], ["sodium"], ["hydrogen"]]}
+{"SubjectEntity": "Mohamed Morsi", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["arabic"]]}
+{"SubjectEntity": "David Guetta", "Relation": "PersonProfession", "ObjectEntities": [["dj", "disc jockey"]]}
+{"SubjectEntity": "Dave Mustaine", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Danny Sullivan", "Relation": "PersonEmployer", "ObjectEntities": [["google"]]}
+{"SubjectEntity": "Dusty Rhodes", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["orlando"]]}
+{"SubjectEntity": "Angelina Jolie", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Pope-Toledo", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

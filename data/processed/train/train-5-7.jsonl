@@ -1,0 +1,60 @@
+{"SubjectEntity": "Ethiopia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["kenya"], ["djibouti"], ["south sudan", "sudan"], ["sudan"], ["eritrea"], ["somalia"]]}
+{"SubjectEntity": "Nepal", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["india"], ["china", "people's republic of china"]]}
+{"SubjectEntity": "Indonesia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["thailand"], ["malaysia"], ["vietnam"], ["india"], ["palau"], ["singapore"], ["papua new guinea"], ["australia"], ["east timor", "timor"], ["philippines"]]}
+{"SubjectEntity": "Tonga", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["usa", "united states of america"]]}
+{"SubjectEntity": "Estonia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["estonian"]]}
+{"SubjectEntity": "Uganda", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["swahili"], ["english"]]}
+{"SubjectEntity": "Comoros", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"], ["comorian"], ["arabic"]]}
+{"SubjectEntity": "Belarus", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["belarusian"], ["russian"]]}
+{"SubjectEntity": "Araucan\u00eda Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["neuquen", "neuqu\u00e9n province"], ["biob\u00edo region", "biobio"], ["los rios", "los r\u00edos region"]]}
+{"SubjectEntity": "California", "Relation": "StateSharesBorderState", "ObjectEntities": [["nevada"], ["oregon"], ["arizona"], ["baja california"]]}
+{"SubjectEntity": "Schwyz", "Relation": "StateSharesBorderState", "ObjectEntities": [["nidwalden"], ["canton of z\u00fcrich", "zurich"], ["canton of zug", "zug"], ["obwalden"], ["st. gallen", "canton of st. gallen"], ["uri"], ["canton of lucerne", "lucerne"], ["canton of glarus"]]}
+{"SubjectEntity": "Kagoshima Prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": [["miyazaki", "miyazaki prefecture"], ["kumamoto", "kumamoto prefecture"], ["okinawa", "okinawa prefecture"]]}
+{"SubjectEntity": "Tennessee river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["usa", "united states of america"]]}
+{"SubjectEntity": "Jurua river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["brazil"], ["peru"]]}
+{"SubjectEntity": "Adige", "Relation": "RiverBasinsCountry", "ObjectEntities": [["italy"]]}
+{"SubjectEntity": "Jordan river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["palestine"], ["state of palestine", "palestine"], ["lebanon"], ["jordan"], ["israel"], ["syria"]]}
+{"SubjectEntity": "Chloric acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"], ["chlorine"]]}
+{"SubjectEntity": "Hydrogen Iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["iodine"]]}
+{"SubjectEntity": "Levomenol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["hydrogen"], ["carbon"]]}
+{"SubjectEntity": "Zinc Phosphate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["zinc"], ["oxygen"], ["phosphorus"]]}
+{"SubjectEntity": "Pharrell Williams", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Bob Marley", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Lana Del Rey", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["spanish"]]}
+{"SubjectEntity": "Lady Gaga", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Mick Foley", "Relation": "PersonProfession", "ObjectEntities": [["writer"], ["wrestler", "professional wrestler"], ["writer", "children's writer"], ["actor"], ["novelist"], ["actor", "film actor"]]}
+{"SubjectEntity": "Hugo Ch\u00e1vez", "Relation": "PersonProfession", "ObjectEntities": [["military officer", "officer"], ["politician"]]}
+{"SubjectEntity": "John McCain", "Relation": "PersonProfession", "ObjectEntities": [["autobiographer"], ["writer"], ["officer", "naval officer"], ["presenter", "television presenter"], ["pilot", "fighter pilot"], ["statesperson"], ["author"], ["politician"], ["aircraft pilot", "pilot"], ["screenwriter"]]}
+{"SubjectEntity": "Pitbull", "Relation": "PersonProfession", "ObjectEntities": [["entrepreneur"], ["producer", "record producer"], ["musician"], ["singer"], ["rapper"], ["brand ambassador", "ambassador"], ["philanthropist"], ["songwriter"]]}
+{"SubjectEntity": "Yesung", "Relation": "PersonInstrument", "ObjectEntities": [["piano"]]}
+{"SubjectEntity": "Zakk Wylde", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Ray Toro", "Relation": "PersonInstrument", "ObjectEntities": [["percussion instrument", "percussion"], ["guitar"]]}
+{"SubjectEntity": "Tom Petty", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Tzipi Livni", "Relation": "PersonEmployer", "ObjectEntities": [["mossad"]]}
+{"SubjectEntity": "Randall Munroe", "Relation": "PersonEmployer", "ObjectEntities": [["langley research center"]]}
+{"SubjectEntity": "Chad Hurley", "Relation": "PersonEmployer", "ObjectEntities": [["google"]]}
+{"SubjectEntity": "Stewart Butterfield", "Relation": "PersonEmployer", "ObjectEntities": [["flickr"], ["slack technologies", "slack"]]}
+{"SubjectEntity": "Ronnie James Dio", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["houston"]]}
+{"SubjectEntity": "Roh Hoe-chan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["seoul"]]}
+{"SubjectEntity": "David Beckham", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Vicente Fern\u00e1ndez", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["guadalajara"]]}
+{"SubjectEntity": "Jennifer Lopez", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Miley Cyrus", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Paul G. Allen", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["non-hodgkin lymphoma", "lymphoma"]]}
+{"SubjectEntity": "Chadwick Boseman", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["colorectal cancer", "cancer"]]}
+{"SubjectEntity": "Unic", "Relation": "CompanyParentOrganization", "ObjectEntities": [["fiat industrial vehicles", "fiat"]]}
+{"SubjectEntity": "Ginetta Cars", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Ari\u00e8s", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Microsoft", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Saint Lucia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["venezuela"]]}
+{"SubjectEntity": "Mongolia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["mongolian"]]}
+{"SubjectEntity": "Canton Aargau", "Relation": "StateSharesBorderState", "ObjectEntities": [["solothurn", "canton of solothurn"], ["canton of zug", "zug"], ["canton of z\u00fcrich", "zurich"], ["canton of bern"], ["basel-landschaft"], ["canton of lucerne", "lucerne"], ["baden-wurttemberg", "Baden-W\u00fcrttemberg"]]}
+{"SubjectEntity": "R\u00edo de la Plata", "Relation": "RiverBasinsCountry", "ObjectEntities": [["uruguay"], ["argentina"]]}
+{"SubjectEntity": "Borax", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["boron"], ["oxygen"], ["sodium"], ["hydrogen"]]}
+{"SubjectEntity": "Mohamed Morsi", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["arabic"]]}
+{"SubjectEntity": "David Guetta", "Relation": "PersonProfession", "ObjectEntities": [["dj", "disc jockey"]]}
+{"SubjectEntity": "Dave Mustaine", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Danny Sullivan", "Relation": "PersonEmployer", "ObjectEntities": [["google"]]}
+{"SubjectEntity": "Dusty Rhodes", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["orlando"]]}
+{"SubjectEntity": "Angelina Jolie", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Pope-Toledo", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

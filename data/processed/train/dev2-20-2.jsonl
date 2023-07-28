@@ -1,0 +1,48 @@
+{"SubjectEntity": "France", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["luxembourg"], ["brazil"], ["monaco"], ["germany"], ["suriname"], ["netherlands", "kingdom of the netherlands"], ["andorra"], ["spain"], ["italy"], ["belgium"], ["switzerland"]]}
+{"SubjectEntity": "Colombia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["nicaragua"], ["ecuador"], ["venezuela"], ["peru"], ["panama"], ["brazil"]]}
+{"SubjectEntity": "Kenya", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["ethiopia"], ["uganda"], ["south sudan", "sudan"], ["tanzania"], ["somalia"], ["sudan"]]}
+{"SubjectEntity": "Afghanistan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["pakistan"], ["iran"], ["uzbekistan"], ["china", "people's republic of china"], ["tajikistan"], ["turkmenistan"]]}
+{"SubjectEntity": "Singapore", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["malay"], ["standard mandarin", "mandarin"], ["tamil"]]}
+{"SubjectEntity": "Albania", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["albanian"]]}
+{"SubjectEntity": "Ghana", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Cyprus", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["turkish"], ["greek"], ["modern greek", "greek"]]}
+{"SubjectEntity": "Region of Murcia", "Relation": "StateSharesBorderState", "ObjectEntities": [["comunidad valenciana", "valenciana"], ["new castile"], ["land of valencia", "valenciana"], ["andalusia"], ["castile-la mancha"]]}
+{"SubjectEntity": "Alaska", "Relation": "StateSharesBorderState", "ObjectEntities": [["chukotka autonomous okrug", "okrug"], ["british columbia"], ["yukon"]]}
+{"SubjectEntity": "Salzburg", "Relation": "StateSharesBorderState", "ObjectEntities": [["carinthia"], ["styria"], ["upper austria"], ["tyrol"], ["tyrol", "south tyrol"], ["trentino-south tyrol"], ["bavaria"]]}
+{"SubjectEntity": "Kainuu", "Relation": "StateSharesBorderState", "ObjectEntities": [["ostrobothnia", "northern ostrobothnia"], ["northern savonia", "savonia"], ["north karelia", "karelia"], ["karelia"]]}
+{"SubjectEntity": "Elbe", "Relation": "RiverBasinsCountry", "ObjectEntities": [["austria"], ["poland"], ["czech republic", "czechia"], ["germany"]]}
+{"SubjectEntity": "Ili river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["kazakhstan"], ["china", "people's republic of china"]]}
+{"SubjectEntity": "R\u00edo de la Plata", "Relation": "RiverBasinsCountry", "ObjectEntities": [["uruguay"], ["argentina"]]}
+{"SubjectEntity": "Kama", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
+{"SubjectEntity": "Formic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Calcium Carbonate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["calcium"], ["oxygen"], ["carbon"]]}
+{"SubjectEntity": "Acetaldehyde", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["carbon"], ["oxygen"]]}
+{"SubjectEntity": "Progesterone", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Pervez Musharraf", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["urdu"], ["turkish"]]}
+{"SubjectEntity": "Ringo Starr", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Aamir Khan", "Relation": "PersonLanguage", "ObjectEntities": [["hindi"], ["english"], ["urdu"]]}
+{"SubjectEntity": "Dwight Howard", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "David Guetta", "Relation": "PersonProfession", "ObjectEntities": [["dj", "disc jockey"]]}
+{"SubjectEntity": "Gerard Piqu\u00e9", "Relation": "PersonProfession", "ObjectEntities": [["association football player", "footballer"]]}
+{"SubjectEntity": "Buzz Aldrin", "Relation": "PersonProfession", "ObjectEntities": [["officer", "air force officer"], ["science fiction writer", "writer"], ["astronaut"], ["autobiographer"], ["engineer"], ["pilot", "fighter pilot"], ["businessperson"]]}
+{"SubjectEntity": "Snoop Dogg", "Relation": "PersonProfession", "ObjectEntities": [["rapper"], ["actor"], ["television producer", "producer"], ["producer", "film producer"], ["actor", "television actor"], ["actor", "film actor"], ["manufacturer"], ["songwriter"], ["director", "film director"], ["singer-songwriter", "singer", "songwriter"], ["voice actor", "actor"], ["producer", "record producer"], ["singer"], ["screenwriter"], ["businessperson"], ["musician"]]}
+{"SubjectEntity": "Willie Nelson", "Relation": "PersonInstrument", "ObjectEntities": [["electric guitar", "guitar"], ["acoustic guitar", "guitar"], ["steel-string acoustic guitar", "guitar"], ["guitar", "classical guitar"], ["guitar"]]}
+{"SubjectEntity": "Jack White", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["drum", "drum kit"], ["piano"], ["keyboard", "musical keyboard"], ["mandolin"]]}
+{"SubjectEntity": "Flea", "Relation": "PersonInstrument", "ObjectEntities": [["bass guitar", "guitar"]]}
+{"SubjectEntity": "Ringo Starr", "Relation": "PersonInstrument", "ObjectEntities": [["drum", "drum kit"], ["percussion instrument", "percussion"], ["guitar"]]}
+{"SubjectEntity": "Aliko Dangote", "Relation": "PersonEmployer", "ObjectEntities": [["dangote", "dangote group"]]}
+{"SubjectEntity": "Jelena Jensen", "Relation": "PersonEmployer", "ObjectEntities": [["twistys"], ["pinupfiles"], ["danni"]]}
+{"SubjectEntity": "Peter Thiel", "Relation": "PersonEmployer", "ObjectEntities": [["stanford university", "stanford"]]}
+{"SubjectEntity": "Adam Back", "Relation": "PersonEmployer", "ObjectEntities": [["blockstream"]]}
+{"SubjectEntity": "Sheryl Sandberg", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Cory Monteith", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["vancouver"]]}
+{"SubjectEntity": "Satya Nadella", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Sundar Pichai", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Adam Levine", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Shintar\u014d ishihara", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pancreatic cancer", "cancer"]]}
+{"SubjectEntity": "Elon Musk", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Jules Bianchi", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["diffuse axonal injury", "injury"]]}
+{"SubjectEntity": "Subaru", "Relation": "CompanyParentOrganization", "ObjectEntities": [["subaruoration", "subaru corporation", "subaru"]]}
+{"SubjectEntity": "IBM", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Saab", "Relation": "CompanyParentOrganization", "ObjectEntities": [["saab", "saab group"], ["saab-scania"], ["spyker n.v.", "spyker"], ["national electric vehicle sweden", "nevs"], ["general motors", "gm"]]}
+{"SubjectEntity": "AT&T", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

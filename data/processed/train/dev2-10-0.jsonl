@@ -1,0 +1,24 @@
+{"SubjectEntity": "Norway", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["sweden"], ["russia"], ["finland"]]}
+{"SubjectEntity": "Papua New Guinea", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["indonesia"], ["micronesia", "federated states of micronesia"], ["australia"]]}
+{"SubjectEntity": "Senegal", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["badyara"], ["french"], ["wolof"], ["balanta"]]}
+{"SubjectEntity": "Tuvalu", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["tuvaluan"], ["english"]]}
+{"SubjectEntity": "Saint Petersburg", "Relation": "StateSharesBorderState", "ObjectEntities": [["vsevolozhsky", "vsevolozhsky district"], ["gatchinsky district", "gatchinsky"], ["tosnensky", "tosnensky district"], ["kirishsky district", "kirishsky"], ["vyborgsky district", "vyborgsky"], ["leningrad oblast"], ["lomonosovsky district", "lomonosovsky"]]}
+{"SubjectEntity": "Atacama Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["antofagasta region", "antofagasta"], ["catamarca province", "catamarca"], ["coquimbo region", "coquimbo"], ["san juan", "san juan province"], ["la rioja province", "la rioja"]]}
+{"SubjectEntity": "Senegal river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["senegal"], ["mauritania"], ["guinea"], ["mali"]]}
+{"SubjectEntity": "Ucayali river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["peru"]]}
+{"SubjectEntity": "Isocyanic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"], ["nitrogen"]]}
+{"SubjectEntity": "Sirolimus", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["nitrogen"], ["hydrogen"], ["carbon"]]}
+{"SubjectEntity": "Arvind Kejriwal", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["hindi"]]}
+{"SubjectEntity": "Bruce Springsteen", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Jimmy Kimmel", "Relation": "PersonProfession", "ObjectEntities": [["comedian"], ["producer", "film producer"], ["voice actor", "actor"], ["presenter", "television presenter"], ["television producer", "producer"], ["actor", "television actor"], ["actor", "film actor"], ["screenwriter"]]}
+{"SubjectEntity": "\"Weird Al\" Yankovic", "Relation": "PersonProfession", "ObjectEntities": [["singer-songwriter", "singer", "songwriter"], ["actor"], ["comedian"]]}
+{"SubjectEntity": "Jamie", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Jung Yong-hwa", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Thaksin Shinawatra", "Relation": "PersonEmployer", "ObjectEntities": [["takushoku university"]]}
+{"SubjectEntity": "Silvio Berlusconi", "Relation": "PersonEmployer", "ObjectEntities": [["a.c. milan"]]}
+{"SubjectEntity": "Brad Pitt", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Sheryl Sandberg", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "John Grisham", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Sergio Ag\u00fcero", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Ford Motor Company", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "AC Cars", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

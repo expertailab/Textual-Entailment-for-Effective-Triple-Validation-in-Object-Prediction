@@ -1,0 +1,48 @@
+{"SubjectEntity": "Afghanistan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["pakistan"], ["iran"], ["uzbekistan"], ["china", "people's republic of china"], ["tajikistan"], ["turkmenistan"]]}
+{"SubjectEntity": "Cambodia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["vietnam"], ["laos"], ["thailand"]]}
+{"SubjectEntity": "Papua New Guinea", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["indonesia"], ["micronesia", "federated states of micronesia"], ["australia"]]}
+{"SubjectEntity": "Republic of Ireland", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["ireland", "northern ireland"], ["united kingdom", "uk"]]}
+{"SubjectEntity": "Dominica", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Saint Lucia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "South Sudan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["arabic"]]}
+{"SubjectEntity": "Libya", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "Alaska", "Relation": "StateSharesBorderState", "ObjectEntities": [["chukotka autonomous okrug", "okrug"], ["british columbia"], ["yukon"]]}
+{"SubjectEntity": "Kansas", "Relation": "StateSharesBorderState", "ObjectEntities": [["oklahoma"], ["nebraska"], ["colorado"], ["missouri"]]}
+{"SubjectEntity": "Maine", "Relation": "StateSharesBorderState", "ObjectEntities": [["new hampshire"], ["quebec"], ["new brunswick"]]}
+{"SubjectEntity": "Emirate of Dubai", "Relation": "StateSharesBorderState", "ObjectEntities": [["oman"], ["emirate of sharjah", "sharjah"], ["emirate of abu dhabi", "abu dhabi"], ["ajman", "emirate of ajman"], ["ras al khaimah", "emirate of ras al khaimah"]]}
+{"SubjectEntity": "Senegal river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["senegal"], ["mauritania"], ["guinea"], ["mali"]]}
+{"SubjectEntity": "Ili river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["kazakhstan"], ["china", "people's republic of china"]]}
+{"SubjectEntity": "Hron", "Relation": "RiverBasinsCountry", "ObjectEntities": [["slovakia"]]}
+{"SubjectEntity": "Rio grande", "Relation": "RiverBasinsCountry", "ObjectEntities": [["mexico"], ["colorado"], ["usa", "united states of america"]]}
+{"SubjectEntity": "Serotonin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Chlorophyll D", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["oxygen"], ["hydrogen"], ["magnesium"]]}
+{"SubjectEntity": "Thioridazine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["sulfur"], ["hydrogen"], ["chlorine"], ["nitrogen"]]}
+{"SubjectEntity": "Gluconolactone", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["hydrogen"], ["carbon"]]}
+{"SubjectEntity": "Alicia Keys", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Jessica Alba", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Elizabeth II", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Drake", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Snoop Dogg", "Relation": "PersonProfession", "ObjectEntities": [["rapper"], ["actor"], ["television producer", "producer"], ["producer", "film producer"], ["actor", "television actor"], ["actor", "film actor"], ["manufacturer"], ["songwriter"], ["director", "film director"], ["singer-songwriter", "singer", "songwriter"], ["voice actor", "actor"], ["producer", "record producer"], ["singer"], ["screenwriter"], ["businessperson"], ["musician"]]}
+{"SubjectEntity": "Jimmy Fallon", "Relation": "PersonProfession", "ObjectEntities": [["talk show host", "host"], ["voice actor", "actor"], ["actor", "film actor"], ["screenwriter"], ["actor", "television actor"], ["writer"], ["comedian"], ["television producer", "producer"], ["presenter", "television presenter"], ["actor"]]}
+{"SubjectEntity": "Gerard Piqu\u00e9", "Relation": "PersonProfession", "ObjectEntities": [["association football player", "footballer"]]}
+{"SubjectEntity": "James Maslow", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["manufacturer"], ["actor", "film actor"], ["dancer"], ["musician"], ["singer"], ["model"], ["youtuber"], ["singer-songwriter", "singer", "songwriter"], ["actor", "television actor"]]}
+{"SubjectEntity": "Ringo Starr", "Relation": "PersonInstrument", "ObjectEntities": [["drum", "drum kit"], ["percussion instrument", "percussion"], ["guitar"]]}
+{"SubjectEntity": "Choi Siwon", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Ronnie James Dio", "Relation": "PersonInstrument", "ObjectEntities": [["bass guitar", "guitar"], ["trumpet"]]}
+{"SubjectEntity": "Annie Lennox", "Relation": "PersonInstrument", "ObjectEntities": [["recorder"], ["piano"]]}
+{"SubjectEntity": "Thaksin Shinawatra", "Relation": "PersonEmployer", "ObjectEntities": [["takushoku university"]]}
+{"SubjectEntity": "Guy Oseary", "Relation": "PersonEmployer", "ObjectEntities": [["truth or dare by madonna"], ["a-grade investments"], ["maverick"], ["hard candy fitness"]]}
+{"SubjectEntity": "Anthony Scaramucci", "Relation": "PersonEmployer", "ObjectEntities": [["goldman sachs"]]}
+{"SubjectEntity": "Danny Sullivan", "Relation": "PersonEmployer", "ObjectEntities": [["google"]]}
+{"SubjectEntity": "Sundar Pichai", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Satya Nadella", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Brad Pitt", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Tupac Shakur", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["university medical center of southern nevada", "nevada"]]}
+{"SubjectEntity": "Shintar\u014d ishihara", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pancreatic cancer", "cancer"]]}
+{"SubjectEntity": "Terry Jones", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["frontotemporal dementia", "dementia"]]}
+{"SubjectEntity": "Satya Nadella", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "David Beckham", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Subaru", "Relation": "CompanyParentOrganization", "ObjectEntities": [["subaruoration", "subaru corporation", "subaru"]]}
+{"SubjectEntity": "AT&T", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Autobianchi", "Relation": "CompanyParentOrganization", "ObjectEntities": [["fiat"]]}
+{"SubjectEntity": "ErAZ", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

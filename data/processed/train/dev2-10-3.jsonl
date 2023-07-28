@@ -1,0 +1,24 @@
+{"SubjectEntity": "Republic of Ireland", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["ireland", "northern ireland"], ["united kingdom", "uk"]]}
+{"SubjectEntity": "Saint Lucia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["venezuela"]]}
+{"SubjectEntity": "Bulgaria", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["bulgarian"]]}
+{"SubjectEntity": "South Sudan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["arabic"]]}
+{"SubjectEntity": "Tennessee", "Relation": "StateSharesBorderState", "ObjectEntities": [["alabama"], ["virginia"], ["georgia"], ["north carolina", "carolina"], ["mississippi"], ["kentucky"], ["arkansas"], ["missouri"]]}
+{"SubjectEntity": "Pennsylvania", "Relation": "StateSharesBorderState", "ObjectEntities": [["ontario"], ["new york"], ["delaware"], ["maryland"], ["ohio"], ["virginia", "west virginia"], ["new jersey"]]}
+{"SubjectEntity": "Niagara river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["canada"], ["usa", "united states of america"]]}
+{"SubjectEntity": "Tagus river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["spain"], ["portugal"]]}
+{"SubjectEntity": "Potassium Hydroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Methanol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Bruce Springsteen", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Mohamed Morsi", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["arabic"]]}
+{"SubjectEntity": "Rafael Nadal", "Relation": "PersonProfession", "ObjectEntities": [["model"], ["player", "tennis player"]]}
+{"SubjectEntity": "Ringo Starr", "Relation": "PersonProfession", "ObjectEntities": [["drummer"]]}
+{"SubjectEntity": "Choi Siwon", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Annie Lennox", "Relation": "PersonInstrument", "ObjectEntities": [["recorder"], ["piano"]]}
+{"SubjectEntity": "Daymond John", "Relation": "PersonEmployer", "ObjectEntities": [["fubu"]]}
+{"SubjectEntity": "Sam Altman", "Relation": "PersonEmployer", "ObjectEntities": [["loopt"], ["y combinator"], ["reddit inc.", "reddit"], ["openai"]]}
+{"SubjectEntity": "Kazuo Koike", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["tokyo"]]}
+{"SubjectEntity": "Bruce Willis", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Bruce Willis", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Angelina Jolie", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Saab", "Relation": "CompanyParentOrganization", "ObjectEntities": [["saab", "saab group"], ["saab-scania"], ["spyker n.v.", "spyker"], ["national electric vehicle sweden", "nevs"], ["general motors", "gm"]]}
+{"SubjectEntity": "AT&T", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

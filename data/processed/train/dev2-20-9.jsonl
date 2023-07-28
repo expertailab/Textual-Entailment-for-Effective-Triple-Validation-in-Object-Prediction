@@ -1,0 +1,48 @@
+{"SubjectEntity": "France", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["luxembourg"], ["brazil"], ["monaco"], ["germany"], ["suriname"], ["netherlands", "kingdom of the netherlands"], ["andorra"], ["spain"], ["italy"], ["belgium"], ["switzerland"]]}
+{"SubjectEntity": "Saint Lucia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["venezuela"]]}
+{"SubjectEntity": "Qatar", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["iran"], ["saudi arabia"]]}
+{"SubjectEntity": "Papua New Guinea", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["indonesia"], ["micronesia", "federated states of micronesia"], ["australia"]]}
+{"SubjectEntity": "Tuvalu", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["tuvaluan"], ["english"]]}
+{"SubjectEntity": "Fiji", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["hindustani"], ["fiji hindi", "hindi"], ["fijian"]]}
+{"SubjectEntity": "Albania", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["albanian"]]}
+{"SubjectEntity": "Ghana", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Alaska", "Relation": "StateSharesBorderState", "ObjectEntities": [["chukotka autonomous okrug", "okrug"], ["british columbia"], ["yukon"]]}
+{"SubjectEntity": "Basel-Landschaft", "Relation": "StateSharesBorderState", "ObjectEntities": [["alsace"], ["canton aargau"], ["baden-wurttemberg", "baden-w\u00fcrttemberg"], ["solothurn", "canton of solothurn"], ["haut-rhin"], ["basel-stadt"], ["canton of jura", "jura"]]}
+{"SubjectEntity": "Maine", "Relation": "StateSharesBorderState", "ObjectEntities": [["new hampshire"], ["quebec"], ["new brunswick"]]}
+{"SubjectEntity": "Kansas", "Relation": "StateSharesBorderState", "ObjectEntities": [["oklahoma"], ["nebraska"], ["colorado"], ["missouri"]]}
+{"SubjectEntity": "Elbe", "Relation": "RiverBasinsCountry", "ObjectEntities": [["austria"], ["poland"], ["czech republic", "czechia"], ["germany"]]}
+{"SubjectEntity": "Huai river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"]]}
+{"SubjectEntity": "Berezina river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["belarus"]]}
+{"SubjectEntity": "Rio grande", "Relation": "RiverBasinsCountry", "ObjectEntities": [["mexico"], ["colorado"], ["usa", "united states of america"]]}
+{"SubjectEntity": "Hydrogen Fluoride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["fluorine"]]}
+{"SubjectEntity": "Strontium Hydroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"], ["strontium"]]}
+{"SubjectEntity": "Formic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Potassium Hydroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Gerard Piqu\u00e9", "Relation": "PersonLanguage", "ObjectEntities": [["catalan"], ["english"], ["spanish"]]}
+{"SubjectEntity": "Ringo Starr", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Elizabeth II", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Stephen Harper", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"]]}
+{"SubjectEntity": "Fran\u00e7ois Hollande", "Relation": "PersonProfession", "ObjectEntities": [["statesperson"]]}
+{"SubjectEntity": "Amitabh Bachchan", "Relation": "PersonProfession", "ObjectEntities": [["actor", "television actor"], ["producer", "film producer"], ["singer"], ["actor"], ["actor", "film actor"]]}
+{"SubjectEntity": "\"Weird Al\" Yankovic", "Relation": "PersonProfession", "ObjectEntities": [["singer-songwriter", "singer", "songwriter"], ["actor"], ["comedian"]]}
+{"SubjectEntity": "Karim Benzema", "Relation": "PersonProfession", "ObjectEntities": [["association football player", "footballer"]]}
+{"SubjectEntity": "Sarah Harding", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Alice Cooper", "Relation": "PersonInstrument", "ObjectEntities": [["harmonica"]]}
+{"SubjectEntity": "Dave Mustaine", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Willie Nelson", "Relation": "PersonInstrument", "ObjectEntities": [["electric guitar", "guitar"], ["acoustic guitar", "guitar"], ["steel-string acoustic guitar", "guitar"], ["guitar", "classical guitar"], ["guitar"]]}
+{"SubjectEntity": "Peter Thiel", "Relation": "PersonEmployer", "ObjectEntities": [["stanford university", "stanford"]]}
+{"SubjectEntity": "Sebasti\u00e1n Pi\u00f1era", "Relation": "PersonEmployer", "ObjectEntities": [["university of chile"], ["pontifical catholic university of chile"], ["adolfo ib\u00e1\u00f1ez university"]]}
+{"SubjectEntity": "Anthony Scaramucci", "Relation": "PersonEmployer", "ObjectEntities": [["goldman sachs"]]}
+{"SubjectEntity": "Daymond John", "Relation": "PersonEmployer", "ObjectEntities": [["fubu"]]}
+{"SubjectEntity": "Jane Goodall", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Kofi Annan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["bern"]]}
+{"SubjectEntity": "Shinzo Abe", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Sundar Pichai", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Jules Bianchi", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["diffuse axonal injury", "injury"]]}
+{"SubjectEntity": "Bob Saget", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["head injury", "injury"], ["blunt trauma", "trauma"]]}
+{"SubjectEntity": "Jane Goodall", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Raffaella Carr\u00e0", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cancer", "lung cancer"]]}
+{"SubjectEntity": "IBM", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "ErAZ", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "AC Cars", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Rayton Fissore", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

@@ -1,0 +1,60 @@
+{"SubjectEntity": "Tuvalu", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
+{"SubjectEntity": "Honduras", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["el salvador"], ["nicaragua"], ["guatemala"]]}
+{"SubjectEntity": "Indonesia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["thailand"], ["malaysia"], ["vietnam"], ["india"], ["palau"], ["singapore"], ["papua new guinea"], ["australia"], ["east timor", "timor"], ["philippines"]]}
+{"SubjectEntity": "Nepal", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["india"], ["china", "people's republic of china"]]}
+{"SubjectEntity": "Antigua and Barbuda", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Serbia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["serbian"]]}
+{"SubjectEntity": "Dominican Republic", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["spanish"]]}
+{"SubjectEntity": "Indonesia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["javanese"], ["indonesian"]]}
+{"SubjectEntity": "Canton of Geneva", "Relation": "StateSharesBorderState", "ObjectEntities": [["auvergne-rhone-alpes", "auvergne-rh\u00f4ne-alpes"], ["vaud", "canton of vaud"], ["haute-savoie"], ["rhone-alpes", "rh\u00f4ne-alpes"], ["ain"]]}
+{"SubjectEntity": "Wyoming", "Relation": "StateSharesBorderState", "ObjectEntities": [["nebraska"], ["colorado"], ["utah"], ["montana"], ["idaho"], ["dakota", "south dakota"]]}
+{"SubjectEntity": "Hamburg", "Relation": "StateSharesBorderState", "ObjectEntities": [["pinneberg"], ["bonningstedt", "b\u00f6nningstedt"], ["halstenbek"], ["neu wulmstorf"], ["seevetal"], ["stade"], ["reinbek"], ["harburg"], ["stormarn"], ["segeberg"], ["lower saxony", "saxony"], ["schleswig-holstein"], ["herzogtum lauenburg"], ["norderstedt"]]}
+{"SubjectEntity": "La Rioja", "Relation": "StateSharesBorderState", "ObjectEntities": [["sierra de urbion", "sierra de urbi\u00f3n"], ["burgos province", "burgos"], ["castile and le\u00f3n", "castile and leon", "leon"], ["aragon"], ["navarre"], ["basque autonomous community", "basque"]]}
+{"SubjectEntity": "Po", "Relation": "RiverBasinsCountry", "ObjectEntities": [["switzerland"], ["italy"], ["france"]]}
+{"SubjectEntity": "Pregolya", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
+{"SubjectEntity": "Murray river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["australia"]]}
+{"SubjectEntity": "Hrazdan river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["armenia"]]}
+{"SubjectEntity": "Levomenol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["hydrogen"], ["carbon"]]}
+{"SubjectEntity": "Hydrogen Iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["iodine"]]}
+{"SubjectEntity": "Valsartan", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Cesium Iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["iodine"], ["caesium"]]}
+{"SubjectEntity": "Karim Benzema", "Relation": "PersonLanguage", "ObjectEntities": [["french"]]}
+{"SubjectEntity": "Xabi Alonso", "Relation": "PersonLanguage", "ObjectEntities": [["german"], ["basque"], ["spanish"], ["english"]]}
+{"SubjectEntity": "Narendra Modi", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["gujarati"], ["bengali"], ["hindi"], ["sanskrit"], ["punjabi"]]}
+{"SubjectEntity": "Arnold Schwarzenegger", "Relation": "PersonLanguage", "ObjectEntities": [["austrian german", "austrian", "german"], ["german"], ["english"]]}
+{"SubjectEntity": "Victoria Beckham", "Relation": "PersonProfession", "ObjectEntities": [["model"], ["designer", "fashion designer"], ["singer-songwriter", "singer", "songwriter"], ["singer"], ["entrepreneur"], ["blogger"], ["actor"]]}
+{"SubjectEntity": "Lindsay Lohan", "Relation": "PersonProfession", "ObjectEntities": [["artist", "recording artist"], ["actor", "stage actor"], ["model"], ["actor", "television actor"], ["actor", "film actor"], ["songwriter"], ["singer"]]}
+{"SubjectEntity": "Novak Djokovic", "Relation": "PersonProfession", "ObjectEntities": [["player", "tennis player"]]}
+{"SubjectEntity": "Leonard Nimoy", "Relation": "PersonProfession", "ObjectEntities": [["voice actor", "actor"], ["director", "film director"], ["photographer"], ["screenwriter"], ["actor", "film actor"], ["poet"], ["actor", "television actor"], ["musician"], ["writer"], ["actor"], ["producer", "film producer"]]}
+{"SubjectEntity": "Amy Lee", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["pipe organ"], ["harp"], ["piano"]]}
+{"SubjectEntity": "Debbie Harry", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Yesung", "Relation": "PersonInstrument", "ObjectEntities": [["piano"]]}
+{"SubjectEntity": "Tom Petty", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Tzipi Livni", "Relation": "PersonEmployer", "ObjectEntities": [["mossad"]]}
+{"SubjectEntity": "Demis Hassabis", "Relation": "PersonEmployer", "ObjectEntities": [["university college london", "ucl"], ["deepmind"]]}
+{"SubjectEntity": "Andrey Vorobyov", "Relation": "PersonEmployer", "ObjectEntities": [["national research university \u2013 higher school of economics"]]}
+{"SubjectEntity": "John Carmack", "Relation": "PersonEmployer", "ObjectEntities": [["softdisk"], ["facebook technologies, llc", "facebook"], ["id software"], ["armadillo aerospace"]]}
+{"SubjectEntity": "Vladimir Zhirinovsky", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["moscow"]]}
+{"SubjectEntity": "Prince", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["chanhassen"]]}
+{"SubjectEntity": "Nawal El Saadawi", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["cairo"]]}
+{"SubjectEntity": "Leon Allen White", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["denver"]]}
+{"SubjectEntity": "Tupac Shakur", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["drive-by", "homicide", "murder"]]}
+{"SubjectEntity": "Michael Lee Aday", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["covid-19", "covid"]]}
+{"SubjectEntity": "Joe Biden", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Adam West", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["leukemia"]]}
+{"SubjectEntity": "Adler", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "ALDI", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Borgward", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "De Tomaso", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Switzerland", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["austria"], ["france"], ["italy"], ["germany"], ["liechtenstein"]]}
+{"SubjectEntity": "Bulgaria", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["bulgarian"]]}
+{"SubjectEntity": "Atacama Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["antofagasta region", "antofagasta"], ["catamarca province", "catamarca"], ["coquimbo region", "coquimbo"], ["san juan", "san juan province"], ["la rioja province", "la rioja"]]}
+{"SubjectEntity": "Ucayali river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["peru"]]}
+{"SubjectEntity": "Hydrogen Fluoride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["fluorine"]]}
+{"SubjectEntity": "Elizabeth II", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Buzz Aldrin", "Relation": "PersonProfession", "ObjectEntities": [["officer", "air force officer"], ["science fiction writer", "writer"], ["astronaut"], ["autobiographer"], ["engineer"], ["pilot", "fighter pilot"], ["businessperson"]]}
+{"SubjectEntity": "Choi Siwon", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "John Green", "Relation": "PersonEmployer", "ObjectEntities": [["kenyon college"], ["booklist"]]}
+{"SubjectEntity": "Dusty Rhodes", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["orlando"]]}
+{"SubjectEntity": "David Beckham", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Ford Motor Company", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

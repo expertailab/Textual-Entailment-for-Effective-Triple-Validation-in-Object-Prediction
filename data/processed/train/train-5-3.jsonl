@@ -1,0 +1,60 @@
+{"SubjectEntity": "Albania", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["greece"], ["north macedonia", "macedonia"], ["montenegro"], ["serbia"]]}
+{"SubjectEntity": "Canada", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["greenland"], ["usa", "united states of america"]]}
+{"SubjectEntity": "Croatia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["slovenia"], ["hungary"], ["serbia"], ["montenegro"], ["bosnia and herzegovina"], ["liberland"]]}
+{"SubjectEntity": "Chad", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["nigeria"], ["niger"], ["sudan"], ["cameroon"], ["africa", "central african republic"], ["libya"]]}
+{"SubjectEntity": "Russia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["russian"]]}
+{"SubjectEntity": "Malta", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["maltese"]]}
+{"SubjectEntity": "Trinidad and Tobago", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Angola", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["portuguese"]]}
+{"SubjectEntity": "Mecklenburg-Western Pomerania", "Relation": "StateSharesBorderState", "ObjectEntities": [["brandenburg"], ["pomeranian", "west pomeranian voivodeship"], ["lower saxony", "saxony"], ["schleswig-holstein"]]}
+{"SubjectEntity": "Pirkanmaa", "Relation": "StateSharesBorderState", "ObjectEntities": [["southern ostrobothnia", "ostrobothnia"], ["finland", "central finland"], ["tavastia proper"], ["satakunta"], ["finland proper"], ["paijanne tavastia", "p\u00e4ij\u00e4nne tavastia"]]}
+{"SubjectEntity": "\u00c5land", "Relation": "StateSharesBorderState", "ObjectEntities": [["stockholm county", "stockholm"], ["uppsala", "uppsala county"], ["finland proper", "finland"]]}
+{"SubjectEntity": "Gibraltar", "Relation": "StateSharesBorderState", "ObjectEntities": [["spain"], ["andalusia"]]}
+{"SubjectEntity": "Great whale river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["canada"]]}
+{"SubjectEntity": "Willamette river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["usa", "united states of america"]]}
+{"SubjectEntity": "Mara\u00f1\u00f3n river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["peru"]]}
+{"SubjectEntity": "Vyatka", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
+{"SubjectEntity": "Disilane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["silicon"]]}
+{"SubjectEntity": "Xanthine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["nitrogen"], ["hydrogen"]]}
+{"SubjectEntity": "Triacetin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["oxygen"], ["hydrogen"]]}
+{"SubjectEntity": "Budipine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Ashley Young", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Fernando Alonso", "Relation": "PersonLanguage", "ObjectEntities": [["spanish"], ["english"], ["italian"]]}
+{"SubjectEntity": "Arnold Schwarzenegger", "Relation": "PersonLanguage", "ObjectEntities": [["austrian german", "austrian", "german"], ["german"], ["english"]]}
+{"SubjectEntity": "Chetan Bhagat", "Relation": "PersonLanguage", "ObjectEntities": [["hindi"], ["english"], ["tamil"]]}
+{"SubjectEntity": "Mick Foley", "Relation": "PersonProfession", "ObjectEntities": [["writer"], ["wrestler", "professional wrestler"], ["writer", "children's writer"], ["actor"], ["novelist"], ["actor", "film actor"]]}
+{"SubjectEntity": "Madonna", "Relation": "PersonProfession", "ObjectEntities": [["manufacturer"], ["songwriter"], ["producer", "film producer"], ["composer"], ["businessperson"], ["screenwriter"], ["performing artist", "artist"], ["entrepreneur"], ["guitarist"], ["voice actor", "actor"], ["director", "film director"], ["poet"], ["writer"], ["director"], ["actor"], ["philanthropist"], ["art collector", "collector"], ["dancer"], ["actor", "film actor"], ["writer", "children's writer"], ["producer", "record producer"], ["singer"], ["model"]]}
+{"SubjectEntity": "Stephen Harper", "Relation": "PersonProfession", "ObjectEntities": [["pianist"], ["economist"], ["politician"]]}
+{"SubjectEntity": "Gwyneth Paltrow", "Relation": "PersonProfession", "ObjectEntities": [["singer"], ["screenwriter"], ["businessperson"], ["television producer", "producer"], ["actor", "television actor"], ["songwriter"], ["actor", "stage actor"], ["actor", "film actor"], ["musician"]]}
+{"SubjectEntity": "Jung Jin-woon", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Amy Lee", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["pipe organ"], ["harp"], ["piano"]]}
+{"SubjectEntity": "David Coverdale", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["bass guitar", "guitar"], ["percussion instrument", "percussion"], ["keyboard instrument", "keyboard"]]}
+{"SubjectEntity": "Zakk Wylde", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Dr. Dre", "Relation": "PersonEmployer", "ObjectEntities": [["apple inc.", "apple"]]}
+{"SubjectEntity": "Stewart Butterfield", "Relation": "PersonEmployer", "ObjectEntities": [["flickr"], ["slack technologies", "slack"]]}
+{"SubjectEntity": "Dara Khosrowshahi", "Relation": "PersonEmployer", "ObjectEntities": [["expedia group", "expedia"], ["allen", "allen & company"], ["iac"], ["uber technology", "uber"]]}
+{"SubjectEntity": "Susan Wojcicki", "Relation": "PersonEmployer", "ObjectEntities": [["google"]]}
+{"SubjectEntity": "John McCain", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["cornville"]]}
+{"SubjectEntity": "Roh Hoe-chan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["seoul"]]}
+{"SubjectEntity": "Shawn Mendes", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "David Cameron", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Jeff Bezos", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Antoine Griezmann", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Angela Merkel", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Neil deGrasse Tyson", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Aichi", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Ferrari S.p.A.", "Relation": "CompanyParentOrganization", "ObjectEntities": [["ferrari", "ferrari n.v."]]}
+{"SubjectEntity": "Bitter Automobile", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "LinkedIn", "Relation": "CompanyParentOrganization", "ObjectEntities": [["microsoft corporation", "microsoft"]]}
+{"SubjectEntity": "Norway", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["sweden"], ["russia"], ["finland"]]}
+{"SubjectEntity": "Senegal", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["badyara"], ["french"], ["wolof"], ["balanta"]]}
+{"SubjectEntity": "Kansas", "Relation": "StateSharesBorderState", "ObjectEntities": [["oklahoma"], ["nebraska"], ["colorado"], ["missouri"]]}
+{"SubjectEntity": "Hron", "Relation": "RiverBasinsCountry", "ObjectEntities": [["slovakia"]]}
+{"SubjectEntity": "Eucalyptol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["oxygen"], ["hydrogen"]]}
+{"SubjectEntity": "Dwight Howard", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Bill Clinton", "Relation": "PersonProfession", "ObjectEntities": [["saxophonist"], ["autobiographer"], ["diplomat"], ["statesperson"], ["lawyer"], ["teacher"], ["writer"], ["politician"]]}
+{"SubjectEntity": "Liam Gallagher", "Relation": "PersonInstrument", "ObjectEntities": [["maraca"], ["guitar"]]}
+{"SubjectEntity": "Thaksin Shinawatra", "Relation": "PersonEmployer", "ObjectEntities": [["takushoku university"]]}
+{"SubjectEntity": "Shinzo Abe", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Julia Roberts", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Pope-Toledo", "Relation": "CompanyParentOrganization", "ObjectEntities": []}

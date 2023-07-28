@@ -1,0 +1,60 @@
+{"SubjectEntity": "Azerbaijan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["republic of artsakh", "artsakh"], ["iran"], ["armenia"], ["russia"], ["turkey"], ["georgia"]]}
+{"SubjectEntity": "South Sudan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["sudan"], ["uganda"], ["congo", "democratic republic of the congo"], ["kenya"], ["ethiopia"], ["africa", "central african republic"]]}
+{"SubjectEntity": "Armenia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["iran"], ["georgia"], ["azerbaijan"], ["turkey"]]}
+{"SubjectEntity": "Cyprus", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["turkish republic of northern cyprus"], ["akrotiri and dhekelia"], ["israel"]]}
+{"SubjectEntity": "Saint Vincent and the Grenadines", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Chile", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["spanish"]]}
+{"SubjectEntity": "Mexico", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["nahuatl"], ["spanish"], ["mexican"], ["yucatec maya", "maya"]]}
+{"SubjectEntity": "Bosnia and Herzegovina", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["bosnian"], ["serbian"], ["croatian"]]}
+{"SubjectEntity": "Lazio", "Relation": "StateSharesBorderState", "ObjectEntities": [["umbria"], ["tuscany"], ["marche"], ["molise"], ["abruzzo"], ["campania"]]}
+{"SubjectEntity": "Canton of Geneva", "Relation": "StateSharesBorderState", "ObjectEntities": [["auvergne-rhone-alpes", "auvergne-rh\u00f4ne-alpes"], ["vaud", "canton of vaud"], ["haute-savoie"], ["rhone-alpes", "rh\u00f4ne-alpes"], ["ain"]]}
+{"SubjectEntity": "Tochigi Prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": [["fukushima prefecture", "fukushima"], ["ibaraki prefecture", "ibaraki"], ["saitama prefecture", "saitama"], ["gunma", "gunma prefecture"]]}
+{"SubjectEntity": "Canton of St. Gallen", "Relation": "StateSharesBorderState", "ObjectEntities": [["schwyz"], ["vorarlberg"], ["thurgau"], ["appenzell innerrhoden"], ["appenzell ausserrhoden"], ["canton of z\u00fcrich", "zurich"], ["grisons"], ["canton of glarus"], ["bavaria"]]}
+{"SubjectEntity": "Orange river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["lesotho"], ["namibia"], ["south africa", "africa"]]}
+{"SubjectEntity": "Jurua river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["brazil"], ["peru"]]}
+{"SubjectEntity": "Tennessee river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["usa", "united states of america"]]}
+{"SubjectEntity": "Ganges", "Relation": "RiverBasinsCountry", "ObjectEntities": [["bangladesh"], ["india"]]}
+{"SubjectEntity": "Hydrogen Bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["bromine"]]}
+{"SubjectEntity": "Sodium Chloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["chlorine"], ["sodium"]]}
+{"SubjectEntity": "Pimozide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["fluorine"], ["carbon"], ["hydrogen"], ["oxygen"], ["nitrogen"]]}
+{"SubjectEntity": "Harmaline", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["nitrogen"], ["hydrogen"]]}
+{"SubjectEntity": "Tom Hanks", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Lance Armstrong", "Relation": "PersonLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Nelson Mandela", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["xhosa"]]}
+{"SubjectEntity": "Shakira", "Relation": "PersonLanguage", "ObjectEntities": [["catalan"], ["english"], ["portuguese"], ["spanish"], ["italian"], ["french"]]}
+{"SubjectEntity": "Taylor Swift", "Relation": "PersonProfession", "ObjectEntities": [["singer"]]}
+{"SubjectEntity": "Justin Bieber", "Relation": "PersonProfession", "ObjectEntities": [["musician"]]}
+{"SubjectEntity": "Sebasti\u00e1n Pi\u00f1era", "Relation": "PersonProfession", "ObjectEntities": [["businessperson"], ["consultant"], ["sports executive", "executive"], ["politician"], ["economist"], ["investor"], ["engineer"]]}
+{"SubjectEntity": "Sasha Grey", "Relation": "PersonProfession", "ObjectEntities": [["singer"], ["actor"], ["photographer"], ["dj", "disc jockey"], ["online streamer", "streamer"], ["actor", "film actor"], ["glamour model", "model"], ["model"], ["musician"], ["actor", "pornographic actor"], ["writer"], ["actor", "television actor"]]}
+{"SubjectEntity": "Phil Collins", "Relation": "PersonInstrument", "ObjectEntities": [["piano"], ["guitar"], ["trumpet"], ["bass guitar", "guitar"], ["bagpipes"], ["percussion instrument", "percussion"], ["drum", "drum kit"]]}
+{"SubjectEntity": "Florence Welch", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Gene Simmons", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["bass guitar", "guitar"]]}
+{"SubjectEntity": "Amber Liu", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Jeff Bezos", "Relation": "PersonEmployer", "ObjectEntities": [["bankers trust"], ["amazon"], ["first international telecom"], ["d. e. shaw & co."]]}
+{"SubjectEntity": "Naoko Yamazaki", "Relation": "PersonEmployer", "ObjectEntities": [["joshibi university of art and design"]]}
+{"SubjectEntity": "Kiran Mazumdar-Shaw", "Relation": "PersonEmployer", "ObjectEntities": [["biocon"]]}
+{"SubjectEntity": "Andy Cohen", "Relation": "PersonEmployer", "ObjectEntities": [["bravo"]]}
+{"SubjectEntity": "Antoine Griezmann", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Roh Hoe-chan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["seoul"]]}
+{"SubjectEntity": "Barack Obama", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Leon Allen White", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["denver"]]}
+{"SubjectEntity": "Selena Gomez", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Sushma Swaraj", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cardiac arrest"]]}
+{"SubjectEntity": "Jimi Hendrix", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pulmonary emphysema", "emphysema"]]}
+{"SubjectEntity": "Tim-Berners Lee", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "ARO", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "UMM", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Vignale", "Relation": "CompanyParentOrganization", "ObjectEntities": [["ford motor company", "ford motor", "ford"]]}
+{"SubjectEntity": "De Tomaso", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "France", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["luxembourg"], ["brazil"], ["monaco"], ["germany"], ["suriname"], ["netherlands", "kingdom of the netherlands"], ["andorra"], ["spain"], ["italy"], ["belgium"], ["switzerland"]]}
+{"SubjectEntity": "Iraq", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"], ["kurdish"]]}
+{"SubjectEntity": "Salzburg", "Relation": "StateSharesBorderState", "ObjectEntities": [["carinthia"], ["styria"], ["upper austria"], ["tyrol"], ["tyrol", "south tyrol"], ["trentino-south tyrol"], ["bavaria"]]}
+{"SubjectEntity": "Tagus river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["spain"], ["portugal"]]}
+{"SubjectEntity": "Hydrogen Fluoride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["fluorine"]]}
+{"SubjectEntity": "Stephen Harper", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"]]}
+{"SubjectEntity": "Pel\u00e9", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["politician"], ["actor", "film actor"], ["association football player", "footballer"]]}
+{"SubjectEntity": "Choi Siwon", "Relation": "PersonInstrument", "ObjectEntities": []}
+{"SubjectEntity": "Sam Altman", "Relation": "PersonEmployer", "ObjectEntities": [["loopt"], ["y combinator"], ["reddit inc.", "reddit"], ["openai"]]}
+{"SubjectEntity": "Sundar Pichai", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "David Beckham", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "IBM", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
