@@ -315,7 +315,30 @@ To contribute, have a look at `Contributing <./CONTRIBUTING.rst>`__
 How to cite
 -----------
 
-To cite this research please use the following: `TBD`
+To cite this research, please use the following::
+
+    @InProceedings{10.1007/978-3-031-47240-4_5,
+    author="Garc{\'i}a-Silva, Andr{\'e}s
+    and Berr{\'i}o, Cristian
+    and G{\'o}mez-P{\'e}rez, Jose Manuel",
+    editor="Payne, Terry R.
+    and Presutti, Valentina
+    and Qi, Guilin
+    and Poveda-Villal{\'o}n, Mar{\'i}a
+    and Stoilos, Giorgos
+    and Hollink, Laura
+    and Kaoudi, Zoi
+    and Cheng, Gong
+    and Li, Juanzi",
+    title="Textual Entailment for Effective Triple Validation in Object Prediction",
+    booktitle="The Semantic Web -- ISWC 2023",
+    year="2023",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="80--100",
+    abstract="Knowledge base population seeks to expand knowledge graphs with facts that are typically extracted from a text corpus. Recently, language models pretrained on large corpora have been shown to contain factual knowledge that can be retrieved using cloze-style strategies. Such approach enables zero-shot recall of facts, showing competitive results in object prediction compared to supervised baselines. However, prompt-based fact retrieval can be brittle and heavily depend on the prompts and context used, which may produce results that are unintended or hallucinatory. We propose to use textual entailment to validate facts extracted from language models through cloze statements. Our results show that triple validation based on textual entailment improves language model predictions in different training regimes. Furthermore, we show that entailment-based triple validation is also effective to validate candidate facts extracted from other sources including existing knowledge graphs and text passages where named entities are recognized.",
+    isbn="978-3-031-47240-4"
+    }
 
 
 |Expert.ai favicon| Expert.ai
